@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "MyMessageBoard"
+    }
+  },
+  "defaultProject": "MyMessageBoard",
+  "cli": {
+    "analytics": "a73b698c-16c3-4f8f-b925-8e38750dcdc0"
+  }
 }
